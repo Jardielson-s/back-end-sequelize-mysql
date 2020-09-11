@@ -5,6 +5,8 @@ this is   backend  to  store datas people with name,password and email
 * mysql2
 * sequelize
 * cors
+# install
+* npm install express sequelize mysql cors 
 # code run
 * npm start
 # inforation additional 
